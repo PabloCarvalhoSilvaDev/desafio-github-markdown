@@ -9,7 +9,7 @@ Desafio prático para colocar em prática conceitos de GitHub e Markdown.
 - [x] Repositorio deve ser público
 
 ## Colaboração
-- [] Adicionar um colaborador ao repositório
+- [x] Adicionar um colaborador ao repositório
 
 ## Tarefas
 - [x] Realizar alterações 
