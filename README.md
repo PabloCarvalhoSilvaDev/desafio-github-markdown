@@ -12,7 +12,7 @@ Desafio prático para colocar em prática conceitos de GitHub e Markdown.
 - [] Adicionar um colaborador ao repositório
 
 ## Tarefas
-- [] Realizar alterações 
-- [] Fazer commits 
-- [] Solicitar pull requests
-- [] Criar issues
+- [x] Realizar alterações 
+- [x] Fazer commits 
+- [x] Solicitar pull requests
+- [x] Criar issues
